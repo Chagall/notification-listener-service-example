@@ -38,8 +38,8 @@ public class NotificationListenerExampleService extends NotificationListenerServ
     }
 
     /*
-        These are the return code we use in the method which intercepts
-        the notifications to decide whether we should do something or not
+        These are the return codes we use in the method which intercepts
+        the notifications, to decide whether we should do something or not
      */
     public static final class InterceptedNotificationCode {
         public static final int FACEBOOK_CODE = 1;
@@ -58,7 +58,9 @@ public class NotificationListenerExampleService extends NotificationListenerServ
         int notificationCode = matchNotificationCode(sbn);
 
         if(notificationCode != InterceptedNotificationCode.OTHER_NOTIFICATIONS_CODE){
-            MainActivity.changeInterceptedNotificationImage(notificationCode);
+            Intent intent = new  Intent("com.github.chagall.notificationlistenerexample");
+            intent.putExtra("Notification Code", notificationCode);
+            sendBroadcast(intent);
         }
     }
 
@@ -73,6 +75,9 @@ public class NotificationListenerExampleService extends NotificationListenerServ
             if(activeNotifications != null && activeNotifications.length > 0) {
                 for (int i = 0; i < activeNotifications.length; i++) {
                     if (notificationCode == matchNotificationCode(activeNotifications[i])) {
+                        Intent intent = new  Intent("com.github.chagall.notificationlistenerexample");
+                        intent.putExtra("Notification Code", notificationCode);
+                        sendBroadcast(intent);
                         break;
                     }
                 }
