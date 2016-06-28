@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationListenerExample</string>
+    <string name="service_label">NotificationListenerExampleService</string>
+    <string name="notification_logo">Intercepted Notification Logo</string>
+</resources>
