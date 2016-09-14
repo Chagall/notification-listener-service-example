@@ -63,3 +63,9 @@ It changes the <b>ImageView</b> present on the screen whenever it receives a not
 * Facebook
 * Instagram
 * Whatsapp
+
+### Here are some images of the app. working, so you can see what it looks like
+#### Tested using a ZenPhone2 (Android Version Lollipop 5.0)
+![alt text](http://imgur.com/zkQ2S9P.jpg)
+![alt text] (http://imgur.com/gSOYgZm.jpg)
+![alt text] (http://imgur.com/asSZT0n.jpg)
