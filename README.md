@@ -9,7 +9,7 @@ As stated in the official Google Android Website, a notification is a message th
 
 <b>It should look similar to this:</b> 
 
-![alt text](http://www.notifymyandroid.com/img/new_notification.png?v=2, "Notification")
+![alt text](https://i.stack.imgur.com/A0Y3K.jpg, "Notification")
 
 ## How to Intercept a Notification
 In order to intercept a notification received by the android system we need to have a specific service running on the system's background. This service is called: <b>NotificationListenerService</b>. 
@@ -67,5 +67,5 @@ It changes the <b>ImageView</b> present on the screen whenever it receives a not
 ### Here are some images of the app. working, so you can see what it looks like
 #### Tested using a ZenPhone2 (Android Version Lollipop 5.0)
 ![alt text](http://imgur.com/zkQ2S9P.jpg)
-![alt text] (http://imgur.com/gSOYgZm.jpg)
-![alt text] (http://imgur.com/asSZT0n.jpg)
+![alt text](http://imgur.com/gSOYgZm.jpg)
+![alt text](http://imgur.com/asSZT0n.jpg)
