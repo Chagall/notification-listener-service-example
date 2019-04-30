@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
      * Is Notification Service Enabled.
      * Verifies if the notification listener service is enabled.
      * Got it from: https://github.com/kpbird/NotificationListenerService-Example/blob/master/NLSExample/src/main/java/com/kpbird/nlsexample/NLService.java
-     * @return True if eanbled, false otherwise.
+     * @return True if enabled, false otherwise.
      */
     private boolean isNotificationServiceEnabled(){
         String pkgName = getPackageName();
