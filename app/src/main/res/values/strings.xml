@@ -2,14 +2,14 @@
 
     <string name="app_name">NotificationListenerExample</string>
     <string name="service_label">NotificationListenerExampleService</string>
-    <string name="image_change_explanaton">The Image bellow will change when a Notification is intercepted</string>
+    <string name="image_change_explanation">The Image bellow will change when a Notification is intercepted</string>
 
     <!-- Placeholder string for if the image doesn't load -->
     <string name="notification_logo">Intercepted Notification Logo</string>
 
     <!-- Strings related to the Alert Dialog -->
     <string name="notification_listener_service">"Notification Listener Service"</string>
-    <string name="notification_listener_service_explanation">"For the the app. to work you need to enable the Notification Listener Service. Enable it now?"</string>
+    <string name="notification_listener_service_explanation">"For the app. to work you need to enable the Notification Listener Service. Enable it now?"</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
 
