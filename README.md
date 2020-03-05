@@ -25,7 +25,7 @@ When the <b>NotificationListenerService</b> identifies that a notification has b
 Like this:
 
 ```xml
- <service android:name=".NotificationListener"
+ <service android:name=".NotificationListenerExampleService"
           android:label="@string/service_name"
           android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
      <intent-filter>
