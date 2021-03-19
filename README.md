@@ -2,7 +2,7 @@
 
 This example aims to teach you how to intercept notifications received by the Android System.
 
-### (Updated 18.03.2021) 
+## (Updated 18.03.2021) 
 
 All the gradle files have been updated to the latest version available because people were having trouble getting it to compile. Some libraries were deprecated, so I updated them to the new ones, and the Android target version is now set to Android 10 instead of Android 5.
 
