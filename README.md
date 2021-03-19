@@ -1,6 +1,12 @@
-# Notification Listener Service Example
+# Notification Listener Service Example 
 
 This example aims to teach you how to intercept notifications received by the Android System.
+
+### (Updated 18.03.2021) 
+
+All the gradle files have been updated to the latest version available because people were having trouble getting it to compile. Some libraries were deprecated, so I updated them to the new ones, and the Android target version is now set to Android 10 instead of Android 5.
+
+TLDR; It's still working!!
 
 ## What is a Notification
 https://developer.android.com/guide/topics/ui/notifiers/notifications.html
@@ -65,7 +71,9 @@ It changes the <b>ImageView</b> present on the screen whenever it receives a not
 * Whatsapp
 
 ### Here are some images of the app. working, so you can see what it looks like
-#### Tested using a ZenPhone2 (Android Version Lollipop 5.0)
+#### Tested in 2016 using a ZenPhone2 (Android Lollipop 5.0) and 2021 on Samsumng Galaxy S7 (Android 8.0.0)
+#### So it still working!
 ![alt text](http://imgur.com/zkQ2S9P.jpg)
 ![alt text](http://imgur.com/gSOYgZm.jpg)
+![alt text](https://i.imgur.com/8xvHoF2.jpg)
 ![alt text](http://imgur.com/asSZT0n.jpg)
