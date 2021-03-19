@@ -70,9 +70,11 @@ It changes the <b>ImageView</b> present on the screen whenever it receives a not
 * Instagram
 * Whatsapp
 
-### Here are some images of the app. working, so you can see what it looks like
-#### Tested in 2016 using a ZenPhone2 (Android Lollipop 5.0) and 2021 on Samsumng Galaxy S7 (Android 8.0.0)
-#### So it still working!
+#### Tested in:
+- 2016 on a ZenPhone2 (Android Lollipop 5.0)
+- 2021 on Samsumng Galaxy S7 (Android Oreo 8.0.0)
+
+### Here are some images of the app. working, so you can see what it looks like:
 ![alt text](http://imgur.com/zkQ2S9P.jpg)
 ![alt text](http://imgur.com/gSOYgZm.jpg)
 ![alt text](https://i.imgur.com/8xvHoF2.jpg)
