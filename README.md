@@ -72,9 +72,10 @@ It changes the <b>ImageView</b> present on the screen whenever it receives a not
 
 #### Tested in:
 - 2016 on a ZenPhone2 (Android Lollipop 5.0)
-- 2021 on Samsumng Galaxy S7 (Android Oreo 8.0.0)
+- 2021 on a Samsung Galaxy S7 (Android Oreo 8.0.0)
 
 ### Here are some images of the app. working, so you can see what it looks like:
+
 ![alt text](http://imgur.com/zkQ2S9P.jpg)
 ![alt text](http://imgur.com/gSOYgZm.jpg)
 ![alt text](https://i.imgur.com/8xvHoF2.jpg)
